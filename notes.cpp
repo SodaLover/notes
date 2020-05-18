@@ -11,8 +11,8 @@ int main () {
     std::cout << ": ";
     string x{};
     std::cin >> x;
-    
-    myfile.open ("/home/jingle/notes.txt", ios_base::app);
+   
+    myfile.open ("$HOME/notes.txt", ios_base::app);
     myfile << "---- " << dt;
     myfile << x << '\n';
     myfile << "\n";
