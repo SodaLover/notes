@@ -12,4 +12,4 @@ Also really simple- just run 'notes.' You'll be prompted with ':', just type you
 - C++17 -
 - less -
 # installation
-Just put the notes and noteread executables in your /bin. (not /bin/bash, i did that once by accident and let me tell you it wasn't good)
+just do ./install.sh
