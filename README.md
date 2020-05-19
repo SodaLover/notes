@@ -12,4 +12,4 @@ Also really simple- just run 'notes.' You'll be prompted with ':', just type you
 - C++17 -
 - less -
 # installation
-just do ./install.sh and chmod the notes and noteread files before using install.sh
+just do ./install.sh!
